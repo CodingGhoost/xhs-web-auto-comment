@@ -1,5 +1,5 @@
 # 小红书 Web 自动评论脚本 (xhs-web-comment-script)  
-中文 | [English] (./README_EN.md)
+中文 | [English](./README_EN.md)
 
 ## 📌 功能介绍
 使用 **Python** 开发的小红书脚本：  
