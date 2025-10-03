@@ -1,4 +1,4 @@
-# Xiaohongshu Web Auto Comment Script (xhs-web-comment-script)  
+# Xiaohongshu Web Auto Comment Script
 [中文](./README.md) | English
 
 ## 📌 Introduction
@@ -48,7 +48,7 @@ python main.py
 
 
 ## ⚠️ Disclaimer
-This project is for learning and communication purposes only.  
+This project is for learning purposes only.  
 Strictly prohibited for use in scenarios that violate Xiaohongshu's user agreement.  
 Any losses caused by improper use are the responsibility of the user.  
 
